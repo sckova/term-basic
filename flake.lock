@@ -110,7 +110,7 @@
         "rev": "56c02bc00adcf003215cc4bd996d6efaf4cff188",
         "revCount": 1060451,
         "type": "tarball",
-        "url": "https://api.flakehub.com/f/pinned/DeterminateSystems/nixpkgs-weekly/0.1.1060451%2Brev-56c02bc00adcf003215cc4bd996d6efaf4cff188/01a05b78-a1af-7e32-b8fa-6b77e11317d1/source.tar.gz?rev=56c02bc00adcf003215cc4bd996d6efaf4cff188&revCount=1060451"
+        "url": "https://api.flakehub.com/f/pinned/DeterminateSystems/nixpkgs-weekly/0.1.1060451%2Brev-56c02bc00adcf003215cc4bd996d6efaf4cff188/01a05b78-a1af-7e32-b8fa-6b77e11317d1/source.tar.gz"
       },
       "original": {
         "type": "tarball",
@@ -201,11 +201,11 @@
         "pedantix": "pedantix"
       },
       "locked": {
-        "lastModified": 1788566374,
-        "narHash": "sha256-FtBBIgzS4rFOLIkbB1uZg8bozdu9oPb7lZBH8+h9KzI=",
+        "lastModified": 1788567531,
+        "narHash": "sha256-jUaXtvYWzJOdRkjamK1Jdez1vNrJGzAu8EfxOrVvq7I=",
         "owner": "sckova",
         "repo": "term",
-        "rev": "b86819fd4632c2abd4cac93cfa28afa278a22298",
+        "rev": "c921dd617b8c4e888f5055f47b073a9550c1c145",
         "type": "github"
       },
       "original": {
