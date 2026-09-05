@@ -38,6 +38,8 @@
                 stateVersion = "26.05";
                 username = user;
               };
+
+              programs.home-manager.enable = true;
             }
           ];
 
