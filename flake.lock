@@ -201,11 +201,11 @@
         "pedantix": "pedantix"
       },
       "locked": {
-        "lastModified": 1788567531,
-        "narHash": "sha256-jUaXtvYWzJOdRkjamK1Jdez1vNrJGzAu8EfxOrVvq7I=",
+        "lastModified": 1788659752,
+        "narHash": "sha256-Zbq2UsXdTzVYOqIpeAK6WQfrJNtnWaBAn83IkY+SZ9A=",
         "owner": "sckova",
         "repo": "term",
-        "rev": "c921dd617b8c4e888f5055f47b073a9550c1c145",
+        "rev": "9a37a70cea1a124543a91d55fe71dc4687b25a9b",
         "type": "github"
       },
       "original": {
